@@ -1,3 +1,5 @@
+# intro
+
 **_[Explore](https://wikischool.org/explore)_** is a (currently closed source) web app aimed at effective and enjoyable topic explorations. Explore is ideal for self-study purposes. Go explore!
 
 # open source
